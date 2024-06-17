@@ -1,2 +1,4 @@
 # AprendizadoGitGitHub
- Aprendendo a Criar Primeiro Repositório
+ Criando o Primeiro Repositório em aula.
+ 
+Executando mudanças pelo README VSCode
